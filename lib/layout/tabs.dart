@@ -64,7 +64,7 @@ class Tabs extends StatelessWidget {
                             vertical: screenHeight * 0.04,
                           ),
                           width: screenWidth,
-                          height: screenHeight * 0.3,
+                          height: screenHeight * 0.37,
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.only(
                               topLeft: Radius.circular(screenHeight * 0.025),
